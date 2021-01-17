@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=2D:16:05:DC:0C:30:E5:78:BD:0A:2A:A6:E4:D1:AF:B1:DB:AB:C1:C7%3Bcom.totetransport
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.totetransport
+
+    SHA-1 certificate fingerprint:
+    2D:16:05:DC:0C:30:E5:78:BD:0A:2A:A6:E4:D1:AF:B1:DB:AB:C1:C7
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAzph9hSmKnT6orgJ2OgXdey1N-PUVS7kY</string>
+</resources>

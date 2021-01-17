@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToTe transport</string>
+    <string name="facebook_app_id">396348274773489</string>
+    <string name="fb_login_protocol_scheme">fb396348274773489</string>
+    <string name="tote">ToTe</string>
+    <string name="transport">transport</string>
+    <string name="by_fc">By FC</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>

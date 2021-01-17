@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413477728129",
+    "project_id": "tote-transport",
+    "storage_bucket": "tote-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413477728129:android:433df2a51dcb27bbf34280",
+        "android_client_info": {
+          "package_name": "com.totetransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413477728129-tsrfjugsob09skb6gm1kce83ha7qdv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yFKh2ijI3ycDXqYbxR_x0MHqSWCgmxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413477728129-tsrfjugsob09skb6gm1kce83ha7qdv81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
